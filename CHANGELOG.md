@@ -10,6 +10,7 @@
 ### Features
 
 * changelog ([cf32a31](https://github.com/xjpbxl123/commit/commit/cf32a314c9f2f40346f52904bbbbf5075d6abea5))
+* new feat ([3fe6213](https://github.com/xjpbxl123/commit/commit/3fe6213ffbc0c29766e3e040dc030dfb02bf005b))
 * **enenen:** nenen ([6a6efba](https://github.com/xjpbxl123/commit/commit/6a6efba76c411a9150496894652f012394c44cb5))
 * **file:** file ([06c73dc](https://github.com/xjpbxl123/commit/commit/06c73dc2762b45cf70b5924a219caa36f7a477e8))
 * 2332 ([628b0af](https://github.com/xjpbxl123/commit/commit/628b0af3b49e8e6683e4a0a5ea702a1bbf7f9dee))
